@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+InsertionSort = "50c96533-7041-4a16-9330-036479e8e57a"
